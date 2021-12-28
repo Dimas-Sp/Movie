@@ -71,7 +71,7 @@ $('#movie-list').on('click', '.see-detail', function () {
                             <div class="col-md-4">
                                 <img src="`+ movie.Poster +`" width="155">
                             </div>
-                                
+                               
                             <div class="col-md-8">
                                 <ul class="list-group">
                                     <li class="list-group-item">`+ movie.Title +`</li>
